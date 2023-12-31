@@ -1,0 +1,42 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #1E2A38;
+    color: #fff;
+    text-align: center;
+    padding: 40px;
+}
+
+section {
+    margin: 40px;
+}
+
+#hero {
+    background-color: #2C3E50;
+    color: #fff;
+    text-align: center;
+    padding: 60px;
+}
+
+.project {
+    background-color: #3498DB;
+    color: #fff;
+    padding: 20px;
+    margin: 10px 0;
+    border-radius: 8px;
+}
+
+footer {
+    background-color: #1E2A38;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
